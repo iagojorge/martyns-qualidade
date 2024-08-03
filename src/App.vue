@@ -5,6 +5,7 @@
     <AppService/>
     <AppAbout/>
     <AppContact/>
+    <AppFooter/>
   </div>
 </template>
 
@@ -14,6 +15,7 @@ import AppHome from './components/AppHome.vue';
 import AppService from './components/AppService.vue';
 import AppAbout from './components/AppAbout.vue';
 import AppContact from './components/AppContact.vue';
+import AppFooter from './components/AppFooter.vue';
 
 export default {
   name: 'App',
@@ -22,7 +24,8 @@ export default {
     AppHome,
     AppContact,
     AppService,
-    AppAbout
+    AppAbout,
+    AppFooter
   }
 };
 </script>

@@ -52,7 +52,7 @@ export default {
   align-items: center;
   justify-content: center;
   text-align: center;
-  gap: 95px 120px; /* Define gap horizontal de 120px e vertical de 95px */
+  gap: 95px 120px; 
 }
 
 .box {
@@ -84,6 +84,6 @@ h2 {
 }
 
 .big-box h1 {
-  text-align: center; /* Centraliza o texto do h1 dentro do big-box */
+  text-align: center; 
 }
 </style>

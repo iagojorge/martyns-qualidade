@@ -10,7 +10,7 @@
         <a href="#sobre-nos" :class="{ active: currentSection === 'sobre-nos' }" @click="scrollToSection('sobre-nos')">Sobre Nós</a>
         <a href="#contato" :class="{ active: currentSection === 'contato' }" @click="scrollToSection('contato')">Contato</a>
       </nav>
-      <a href="#orcamento" class="cta" @click="scrollToSection('orcamento')">Faça um Orçamento</a>
+      <a href="https://wa.me/5527998969507?text=Gostaria%20de%20fazer%20um%20or%C3%A7amento" class="cta" target="_blank" rel="noopener noreferrer">Faça um Orçamento</a>
     </div>
   </header>
 </template>
