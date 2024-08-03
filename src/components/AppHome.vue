@@ -63,9 +63,9 @@
   
   h1 {
     font-size: 32px;
-    color: #0062cc;
+    color: #4E6FE0;
     font-weight: 900;
-    text-align: center; /* Centralizar o título */
+    text-align: center; 
   }
   
   h2 {
@@ -73,19 +73,19 @@
     font-weight: 500; 
     color: #333;
     margin-top: 20px;
-    text-align: left; /* Alinhar o parágrafo à esquerda */
+    text-align: left; 
   }
   
   .button-group {
     display: flex;
-    justify-content: center; /* Centralizar o grupo de botões */
+    justify-content: center; 
     align-items: center;
-    gap: 20px; /* Espaçamento entre os elementos */
+    gap: 20px; 
     margin-top: 20px;
   }
   
   .btn-primary {
-    background-color: #0062cc;
+    background-color: #4E6FE0;
     color: white;
     width: 300px;
     height: 50px;
@@ -96,7 +96,7 @@
   }
   
   .btn-primary:hover {
-    background-color: #0051a3;
+    background-color: #4E6FE0;
   }
   
   .btn-image {

@@ -1,5 +1,5 @@
 <template>
-    <section id="sobre-nos" class="section">
+    <section id="contato" class="section">
       <h1>Contato</h1>
     </section>
 </template>
@@ -12,7 +12,7 @@
 </script>
 
 
-<style>
+<style scoped>
   .section {
     height: 100vh;
     display: flex;

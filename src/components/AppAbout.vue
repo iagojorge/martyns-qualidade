@@ -1,6 +1,6 @@
 <template>
     <section id="sobre-nos" class="section">
-      <h1>Sobre Nós</h1>
+      
     </section>
 </template>
 
@@ -12,9 +12,10 @@
 </script>
 
 
-<style>
+<style scoped>
   .section {
-    height: 100vh;
+    background-color: #181717;
+    height: 80vh;
     display: flex;
     flex-direction: column;
     align-items: center;

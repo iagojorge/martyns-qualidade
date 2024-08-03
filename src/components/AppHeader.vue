@@ -96,7 +96,7 @@ nav a::after {
   display: block;
   width: 0;
   height: 2px;
-  background: #0062cc;
+  background: #4E6FE0;
   transition: width 0.3s;
   position: absolute;
   bottom: 0;
@@ -109,12 +109,12 @@ nav a.active::after {
 }
 
 nav a.active {
-  color: #0062cc;
+  color: #4E6FE0;
   font-weight: bold;
 }
 
 .cta {
-  background-color: #0062cc;
+  background-color: #4E6FE0;
   color: #fff;
   padding: 10px 20px;
   border-radius: 20px;
@@ -123,6 +123,6 @@ nav a.active {
 }
 
 .cta:hover {
-  background-color: #0051a3;
+  background-color: #4E6FE0;
 }
 </style>
