@@ -5,16 +5,16 @@
       <h2>Investimos continuamente em tecnologia e capacitação.</h2>
     </div>
     <div class="box">
-      <h1>Inovação</h1>
-      <h2>Investimos continuamente em tecnologia e capacitação.</h2>
+      <h1>Compromisso </h1>
+      <h2>Estamos comprometidos com a satisfação e o sucesso de nossos clientes.</h2>
     </div>
     <div class="box">
-      <h1>Inovação</h1>
-      <h2>Investimos continuamente em tecnologia e capacitação.</h2>
+      <h1>Qualidade</h1>
+      <h2>Buscamos a excelência em cada serviço prestado.</h2>
     </div>
     <div class="box">
-      <h1>Inovação</h1>
-      <h2>Investimos continuamente em tecnologia e capacitação.</h2>
+      <h1>Segurança</h1>
+      <h2>Priorizamos a segurança em todos os processos e inspeções.</h2>
     </div>
     <div class="big-box">
       <h1>Nossa Visão</h1>
