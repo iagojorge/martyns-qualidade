@@ -23,24 +23,24 @@
         text="Oferecemos profissionais especializados para atender demandas temporárias ou permanentes de nossos clientes."
       />
       <BoxService
-        :imageSrc="require('@/assets/qualifica.png')"
-        title="Qualificação de Soldadores"
-        text="Qualificação de Soldadores pela norma ASME IX, AWS D1.1, dentre outras. Fornecemos local para Qualificação, EPIS, consumíveis e corpos de prova."
+        :imageSrc="require('@/assets/tinta.png')"
+        title="Inspeção de Pintura"
+        text="Verificamos a qualidade e aderência das pinturas industriais, garantindo a proteção adequada das superfícies."
       />
       <BoxService
-        :imageSrc="require('@/assets/qualifica.png')"
-        title="Qualificação de Soldadores"
-        text="Qualificação de Soldadores pela norma ASME IX, AWS D1.1, dentre outras. Fornecemos local para Qualificação, EPIS, consumíveis e corpos de prova."
+        :imageSrc="require('@/assets/ultrasom.jpg')"
+        title="Inspeção por Ultrassom Phased Array"
+        text="Utilizamos tecnologia de ultrassom avançada para detectar descontinuidades internas em materiais."
       />
       <BoxService
-        :imageSrc="require('@/assets/qualifica.png')"
-        title="Qualificação de Soldadores"
-        text="Qualificação de Soldadores pela norma ASME IX, AWS D1.1, dentre outras. Fornecemos local para Qualificação, EPIS, consumíveis e corpos de prova."
+        :imageSrc="require('@/assets/liquido.png')"
+        title="Inspeção por Líquidos Penetrantes"
+        text="Aplicamos métodos de líquidos penetrantes para identificar fissuras e defeitos superficiais."
       />
       <BoxService
-        :imageSrc="require('@/assets/qualifica.png')"
-        title="Qualificação de Soldadores"
-        text="Qualificação de Soldadores pela norma ASME IX, AWS D1.1, dentre outras. Fornecemos local para Qualificação, EPIS, consumíveis e corpos de prova."
+        :imageSrc="require('@/assets/particula.png')"
+        title="Inspeção por Partículas Magnéticas"
+        text="Realizamos inspeções magnéticas para detectar descontinuidades superficiais e subsuperficiais em materiais ferromagnéticos."
       />
     </div>
   </section>
